@@ -1,16 +1,16 @@
 *tags: Python, Machine Learning, Data Analytics, Scipy, Numpy, Pandas, Matplotlib, Sklearn, Hypothesis Testing, Knn, Linear Regression, Lasso Regression, Supported Vector Classifier, Decision Tree, Logistic Regression Classifier*
 
 [01.Project Intro and basic data statistics](https://github.com/cmn0705/Baseball_Analytics/blob/master/01.Project%20Intro%20and%20basic%20data%20statistics.ipynb)<br>
-02.Explore Data Distribution (shape, outliners, confident level of mean) with Scipy, Pandas, Matplotlib<br>
-03.Hypothesis Testing of 2 populations means, Scipy<br>
-04.Analyze the relationship between 2 variables, Pandas, Matplotlib<br>
-05.Predict playoffs, K_neighbors Classifier<br>
-06.Predict win percentage, Simple Linear Regression<br>
-07.Predict win percentage, Linear Regression with Polynomial Features (in a range of degree)<br>
-08.Predict win percentage, Lasso Regression with regularized parameters<br>
-09.Predict playoffs, Decision Tree Classifier to determine the most important features<br>
-10.Predict playoffs, Support Vector Classifier, Validation Curve for changing parameters<br>
-11.Predict playoffs, Support Vector Classifier for imbalanced classes, Confusion Matrix<br>
-12.Predict playoffs, Logistic Regression Classifier, PR and ROC curves for changing threshold of decision function<br>
-13.Predict playoffs, Logistic Regression Classifier, GridSearchCV for changing parameters<br>
-14.Predict playoffs, Gradient Boosting Classifier<br>
+[02.Explore Data Distribution (shape, outliners, confident level of mean) with Scipy, Pandas, Matplotlib](https://github.com/cmn0705/Baseball_Analytics/blob/master/02.Explore%20Data%20Distribution%20(shape%2C%20outliners%2C%20confident%20level%20of%20mean)%20with%20Scipy%2C%20Pandas%2C%20Matplotlib.ipynb)<br>
+[03.Hypothesis Testing of 2 populations means, Scipy](https://github.com/cmn0705/Baseball_Analytics/blob/master/03.Hypothesis%20Testing%20of%202%20populations%20means%2C%20Scipy.ipynb)<br>
+[04.Analyze the relationship between 2 variables, Pandas, Matplotlib](https://github.com/cmn0705/Baseball_Analytics/blob/master/04.Analyze%20the%20relationship%20between%202%20variables%2C%20Pandas%2C%20Matplotlib.ipynb)<br>
+[05.Predict playoffs, K_neighbors Classifier](https://github.com/cmn0705/Baseball_Analytics/blob/master/05.Predict%20playoffs%2C%20K_neighbors%20Classifier.ipynb)<br>
+[06.Predict win percentage, Simple Linear Regression](https://github.com/cmn0705/Baseball_Analytics/blob/master/06.Predict%20win%20percentage%2C%20Simple%20Linear%20Regression.ipynb)<br>
+[07.Predict win percentage, Linear Regression with Polynomial Features (in a range of degree)](https://github.com/cmn0705/Baseball_Analytics/blob/master/07.Predict%20win%20percentage%2C%20Linear%20Regression%20with%20Polynomial%20Features%20(in%20a%20range%20of%20degree).ipynb)<br>
+[08.Predict win percentage, Lasso Regression with regularized parameters](https://github.com/cmn0705/Baseball_Analytics/blob/master/08.Predict%20win%20percentage%2C%20Lasso%20Regression%20with%20regularized%20parameters.ipynb)<br>
+[09.Predict playoffs, Decision Tree Classifier to determine the most important features](https://github.com/cmn0705/Baseball_Analytics/blob/master/09.Predict%20playoffs%2C%20Decision%20Tree%20Classifier%20to%20determine%20the%20most%20important%20features.ipynb)<br>
+[10.Predict playoffs, Support Vector Classifier, Validation Curve for changing parameters](https://github.com/cmn0705/Baseball_Analytics/blob/master/10.Predict%20playoffs%2C%20Support%20Vector%20Classifier%2C%20Validation%20Curve%20for%20changing%20parameters.ipynb)<br>
+[11.Predict playoffs, Support Vector Classifier for imbalanced classes, Confusion Matrix](https://github.com/cmn0705/Baseball_Analytics/blob/master/11.Predict%20playoffs%2C%20Support%20Vector%20Classifier%20for%20imbalanced%20classes%2C%20Confusion%20Matrix.ipynb)<br>
+[12.Predict playoffs, Logistic Regression Classifier, PR and ROC curves for changing threshold of decision function](https://github.com/cmn0705/Baseball_Analytics/blob/master/12.Predict%20playoffs%2C%20Logistic%20Regression%20Classifier%2C%20PR%20and%20ROC%20curves%20for%20changing%20threshold%20of%20decision%20function.ipynb)<br>
+[13.Predict playoffs, Logistic Regression Classifier, GridSearchCV for changing parameters](https://github.com/cmn0705/Baseball_Analytics/blob/master/13.Predict%20playoffs%2C%20Logistic%20Regression%20Classifier%2C%20GridSearchCV%20for%20changing%20parameters.ipynb)<br>
+[14.Predict playoffs, Gradient Boosting Classifier](https://github.com/cmn0705/Baseball_Analytics/blob/master/14.Predict%20playoffs%2C%20Gradient%20Boosting%20Classifier.ipynb)<br>
