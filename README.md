@@ -1,7 +1,10 @@
 *Tags: Python, Machine Learning, Data Analytics*<br>
-**Description:** This is a Python project that performs sport analytics for baseball. Each record in the the dataset is results of a team in a season. The Python programs explore statistics and data distribution of the dataset; find relationship between variables using statistics, hypothesis testing, and graphs; build different models of machine learning to predict a team's win percentage and whether it makes to playoffs based on the given parameters.
-
-**Tools:** *pandas, scipy.stats, numpy, matplotlib, sklearn*
+**Description:**
+- Developed Python codes on Jupyter Notebooks that perform sport analytics for baseball. 
+- Extracted and manipulated data from existing file containing records of baseball teams over many years.
+- Explored basic statistics and data distribution of the dataset; found relationships between variables using statistics, hypothesis testing, and graphs.
+- Developed and evaluated different machine learning models to predict a team's chance of win and chance of making to playoffs based on the given parameters.
+- Tools used: *python, pandas, scipy.stats, numpy, matplotlib, sklearn*
 
 **Notebooks:**
 01. Project Intro and basic data statistics
